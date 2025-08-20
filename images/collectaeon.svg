@@ -1,0 +1,11 @@
+<svg width="38" height="38" viewBox="-1 -1 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+    <style>
+      path {
+        stroke: rgb(0, 0,0);
+        stroke-width: 1px;
+      }
+    </style>
+</defs>
+<path id="Union" fill-rule="evenodd" clip-rule="evenodd" d="M7.71429 12.4898H35.1409C32.8135 5.24398 26.0192 0 18 0C8.05887 0 0 8.05888 0 18C0 27.9411 8.05887 36 18 36C25.883 36 32.5824 30.9326 35.0185 23.8776H7.71429V12.4898ZM35 18C35 18.7462 34.9546 19.4817 34.8664 20.2041H10.3878V16.1633H34.9074C34.9686 16.7672 35 17.3799 35 18Z" fill="white"/>
+</svg>
